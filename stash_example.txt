@@ -1,2 +1,0 @@
-echo "Temporary content for stash example" > stash_example.txt
-
